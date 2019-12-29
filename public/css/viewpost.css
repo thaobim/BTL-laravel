@@ -1,0 +1,68 @@
+.view-post {
+    width: 100%;
+}
+
+.img-view {
+    width: 100%;
+    overflow: hidden;
+}
+
+.img-view img {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+    object-position: center center;
+}
+
+.content-view-post {
+    margin-top: 50px;
+}
+
+.wp-caption {
+    width: 100%;
+    overflow: hidden;
+    padding-top: 12px;
+    padding-bottom: 32px;
+}
+
+.wp-caption img {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+    object-position: center center;
+}
+
+.wp-caption:after {
+    content: 'Dâu tây được coi là "nữ hoàng trái cây" với nguồn dinh dưỡng vô tận';
+    font-style: italic;
+    padding-left: 103px;
+}
+.comment:before {content: '';display: block;width: 100%;height: 1px;background: #e6e6e6;position: absolute;top: -16px;}
+
+.comment {position: relative;top: 73px;}
+.view {
+    margin-top: 50px;
+}
+span.img-small {
+    width: 40%;
+    overflow: hidden;
+}
+
+span.img-small img {
+    width: 40%;
+}
+.img-small {
+    width: 100%;
+    overflow: hidden;
+    height: 70px;
+}
+
+.img-small img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+.title-category .col-md-5 {
+    padding-right: 0;
+}

@@ -1,0 +1,57 @@
+.img-post {
+    width: 100%;
+    overflow: hidden;
+    height: 300px;
+}
+
+.content-post-blog {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.img-post img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+.list-post {
+    margin-top: 50px;
+}
+.post2 {
+    width: 100%;
+    height: 420px;
+}
+.post3 {
+    height: 238px;
+}
+button.btn.btn-readmore {
+    background-color: white;
+    border: 1px solid gray;
+}
+
+button.btn.btn-readmore:hover {
+    background: #82b53f;
+    border: 1px solid #82b53f;
+    color: white;
+}
+.last-child {
+    padding-top: 107px;
+}
+.btn-viewmore {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btn-viewmore button {
+    width: 193px;
+}
+button.btn.btn-readmore a {
+    color: gray;
+    text-decoration: none;
+}
+button.btn.btn-readmore:hover a {
+    color: white;
+    text-decoration: none;
+}

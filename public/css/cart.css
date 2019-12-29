@@ -1,0 +1,80 @@
+.delete {
+    float: left;
+}
+
+.product-cart {
+    height: 150px;
+    float: right;
+    overflow: hidden;
+    width: 150px;
+}
+
+.product-cart img {
+    width: 100%;
+    height: 100%;
+}
+td.table-myproduct {
+    position: relative;
+}
+.delete span {
+    position: absolute;
+    left: 29%
+    ;bottom: 42%;
+}
+input.minus, input.plus {
+    float: left;
+    width: 30px;
+    border: none;
+    color: white;
+    height: 30px;
+    background: #c5c5c5;
+}
+
+input.number {
+    float: left;
+    width: 42px;
+    text-align: center;
+    border: 1px solid #e0e0e0;
+    height: 30px;
+}
+
+input.plus {
+    float: left;
+    width: 30px;
+}
+
+input.minus:hover, input.plus:hover {
+    background: #82b53f;
+}
+.actions {
+    /* display: flex; */
+}
+
+.update {
+    float: right;
+}
+.coupon {
+    display: inline-block;
+    float: left;
+}
+td {
+    text-align: center;
+}
+.checkout button {
+    float: right;
+}
+
+.checkout {
+    padding-top: 59px;
+}
+.checkout a {
+    color: white;
+    text-decoration: none;
+}
+.checkout a:hover {
+    color: white;
+    text-decoration: none;
+}
+.table-shop {
+    margin-top: 50px;
+}

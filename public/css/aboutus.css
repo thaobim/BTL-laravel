@@ -1,0 +1,55 @@
+.wpb_wrapper h1:before {
+    content: '';
+    width: 40%;
+    height: 1px;
+    background: #e8e8e8;
+    display: inline-block;
+    position: absolute;
+    left: 27px;
+    top: 50%;
+}
+
+.wpb_wrapper h1 {
+    text-align: center;
+    font-size: 19px;
+}
+
+.wpb_wrapper h1:after {
+    content: '';
+    width: 40%;
+    height: 1px;
+    background: #e4e4e4;
+    display: inline-block;
+    position: absolute;
+    right: 27px;
+    top: 50%;
+}
+.wpb_wrapper{
+    position: relative;
+}
+.content-aboutus {
+    margin-top: 50px;
+}
+.skill {
+    padding-bottom: 32px;
+}
+
+.progress {
+    height: 10px;
+}
+.progress-heigh {
+    height: 10px !important;
+}
+.skill h6 {
+    font-size: 14px;
+}
+.progress-color {
+    background: #82b53f !important;
+}
+.ourskill {
+    margin-top: 50px;
+}
+
+.content-aboutus .row {
+    padding-top: 35px;
+}

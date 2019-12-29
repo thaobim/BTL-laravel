@@ -1,0 +1,26 @@
+.form {
+    margin-top: 50px;
+}
+input[type="text"] {
+    width: 80%;
+    height: 45px;
+}
+
+.form p {
+    padding-top: 42px;
+}
+.checkbox {
+    padding-top: 44px;
+}
+.btn-register {
+    margin-top: 30px;
+}
+.form h5:after {
+    content: '';
+    width: 75%;
+    height: 1px;
+    background: #d0d0d0;
+    display: block;
+    position: absolute;
+    top: 31px;
+}
